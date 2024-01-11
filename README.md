@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a PhD-qualified applied mathematician with 13+ years of diverse, academic and industry, research and development experience. I have experience and expertise in using data to provide insight, optimising algorithms and processes, and analysing, identifying and controlling dynamical processes. I'm also skilled in utilising modern software tools and development processes, with the focus on Python, Go and Rust eco-system.
+<p align="justify">I'm a PhD-qualified applied mathematician with 13+ years of diverse, academic and industry, research and development experience. I have experience and expertise in using data to provide insight, optimising algorithms and processes, and analysing, identifying and controlling dynamical processes. I'm also skilled in utilising modern software tools and development processes, with the focus on Python, Go and Rust eco-system.</p>
+
+
 
 <!--
 **4lexir4/4lexir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
