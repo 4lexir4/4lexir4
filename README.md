@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="justify">I am a PhD-qualified applied mathematician with 13+ years of diverse, academic and industry, research and development experience. I have experience and expertise Machine Learning, Time Series, Algorithms, Optimisation and Control Theory. I am also skilled in utilising modern software tools and development processes (💚 NeoVim), with the focus on Python, Go and Rust eco-system.</p>
+<p align="justify">I am a PhD-qualified applied mathematician with 13+ years of diverse, academic and industry, research and development experience. I have experience and expertise in Machine Learning, Time Series, Algorithms, Optimisation and Control Theory. I am also skilled in utilising modern software tools and development processes (💚 NeoVim), with the focus on Python, Go and Rust eco-system.</p>
 
 
 
