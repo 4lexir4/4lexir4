@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="justify">I'm a PhD-qualified applied mathematician with 13+ years of diverse, academic and industry, research and development experience. I have experience and expertise in using data to provide insight, optimising algorithms and processes, and analysing, identifying and controlling dynamical processes. I'm also skilled in utilising modern software tools and development processes, with the focus on Python, Go and Rust eco-system.</p>
+<p align="justify">I am a PhD-qualified applied mathematician with 13+ years of diverse, academic and industry, research and development experience. I have experience and expertise in using data to provide insight, optimising algorithms and processes, and analysing, identifying and controlling dynamical processes. I am also skilled in utilising modern software tools and development processes (:hearts: NeoVim), with the focus on Python, Go and Rust eco-system.</p>
 
 
 
