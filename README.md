@@ -1,6 +1,6 @@
 Hello there 
 
-I am a PhD-qualified applied mathematician with 13+ years of diverse research and development experience - for details please see my LinkedIn profile. 
+I am a PhD-qualified applied mathematician with 13+ years of diverse research and development experience - for details please see my [LinkedIn](https://www.linkedin.com/in/alex-ira-phd-657bab166/) and [Google Scholar](https://scholar.google.com/citations?user=r21toV4AAAAJ&hl=en) profile. 
 
 My PhD was in optimal control and its application in networked nonlinear dynamical systems. 
 
