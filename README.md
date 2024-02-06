@@ -20,6 +20,6 @@ I worked on various problems, including but not limited to:
  - networked control systems
  - guidance, navigation and control (GNC)
 
-I am also skilled in utilising modern software tools (with preferenve on (any) unix OS + ${\textsf{\color{green}tmux}}$ + ${\textsf{\color{Cerulean}neo}}{\textsf{\color{lightgreen}vim}}$ combo) and development processes. In terms of the programming languages, at the moment I am focusing on Python, Go and Rust but I have had experience with Julia, C, C++, JavaScript and Matlab/Simulink. 
+I am also skilled in utilising modern software tools (with preference on (any) unix OS + ${\textsf{\color{green}tmux}}$ + ${\textsf{\color{Cerulean}neo}}{\textsf{\color{lightgreen}vim}}$ combo) and development processes. In terms of the programming languages, at the moment I am focusing on Python, Go and Rust but I have had experience with Julia, C, C++, JavaScript and Matlab/Simulink. 
 
 My current interest is in the finance and trading algorithms, systems and the corresponding theory.
