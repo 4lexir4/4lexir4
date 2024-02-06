@@ -6,14 +6,14 @@ I am a PhD-qualified applied mathematician with 13+ years of diverse research an
 My [PhD Thesis](https://minerva-access.unimelb.edu.au/items/5f1d0a83-7801-5b7f-bee8-5f7836953a69) was in optimal control and its application in networked nonlinear dynamical systems - please note that I have legally chagned my name from Merid Lješnjanin to Alex Ira in 2017. 
 
 I worked on various problems, including but not limited to:
- - (deep) machine learning
- - tracking (Kalman filter and its flavoures, Partical filter)
+ - classification and regression (via (deep) machine learning)
+ - tracking (via Kalman filter (and its flavoures) and Partical filter)
  - estimation
  - time series forecasting
- - assigners (constrained optimisation)
- - collision avoidance
- - path planning
- - anomaly detection
+ - assigners (via optimisation)
+ - collision avoidance (via optimisation)
+ - path planning 
+ - anomaly detection (via Machine Learning)
  - iterative learning 
  - model predictive control
  - extremum seeking control
