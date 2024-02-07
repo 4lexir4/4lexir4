@@ -8,7 +8,6 @@ My [PhD Thesis](https://minerva-access.unimelb.edu.au/items/5f1d0a83-7801-5b7f-b
 I worked on various problems, including but not limited to:
  - classification and regression (via (deep) machine learning)
  - tracking (via Kalman filter (and its flavoures) and Partical filter)
- - estimation
  - time series forecasting
  - assigners (via optimisation)
  - collision avoidance (via optimisation)
