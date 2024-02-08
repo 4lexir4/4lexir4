@@ -3,7 +3,7 @@ Hello there
 
 I am a PhD-qualified applied mathematician with 13+ years of diverse research and development experience - for details please see my [LinkedIn](https://www.linkedin.com/in/alex-ira-phd-657bab166/) and [Google Scholar](https://scholar.google.com/citations?user=r21toV4AAAAJ&hl=en) profile. 
 
-My [PhD Thesis](https://minerva-access.unimelb.edu.au/items/5f1d0a83-7801-5b7f-bee8-5f7836953a69) was in optimal control and its application in networked nonlinear dynamical systems - please note that I have legally chagned my name from Merid Lješnjanin to Alex Ira in 2017. 
+My [PhD Thesis](https://minerva-access.unimelb.edu.au/items/5f1d0a83-7801-5b7f-bee8-5f7836953a69) was in optimal control and its application in networked nonlinear dynamical systems - please note that I have legally chagned my name from Merid Lješnjanin to Alex Ira in 2017 (my thesis is in my old name). 
 
 I worked on various problems, including but not limited to:
  - classification and regression (via (deep) machine learning)
